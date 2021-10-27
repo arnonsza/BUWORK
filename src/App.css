@@ -1,0 +1,110 @@
+.login-form-card {
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+    border: black solid 5px;
+    border-radius: 10px;
+}
+
+.login-form-inputname {
+    margin-top: 50px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-form-button button {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 40px;    
+}
+
+.login-form-hyperlink {
+    padding: 20px;
+    text-align: center;
+}
+
+.register-card {
+    width: 600px;
+    height: 600px;
+    border: black solid 5px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.register-lebeltop {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.register-text-edit{
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.register-button button {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+}
+
+.register-backward {
+    padding-left: 30px;
+    display: block;
+    margin-top: 50px;
+}
+
+.Resetpassword-form-body {
+    width: 600px;
+    height: 370px;
+    border: solid black 5px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+}
+
+.Resetpassword-form-label {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Resetpassword-form-label1 {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Resetpassword-form-input input {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.Resetpassword-form-button button {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+}
+
+.header-banner {
+    height: 90px;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: #2CAAFD;
+}
